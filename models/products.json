@@ -1,0 +1,29 @@
+[
+  {
+    "name": "auto",
+    "description": "X112211",
+    "code": 1200000,
+    "price": "https://celulares.com/Samsung-s8.jpg",
+    "img": 1,
+    "id": 1,
+    "timestamp": 1636915181599
+  },
+  {
+    "name": "auto",
+    "description": "X112211",
+    "code": 1200000,
+    "price": "https://celulares.com/Samsung-s8.jpg",
+    "img": 1,
+    "id": 2,
+    "timestamp": 1636915181599
+  },
+  {
+    "name": "autrro",
+    "description": "X112211",
+    "code": 1200000,
+    "price": "https://celulares.com/Samsung-s8.jpg",
+    "img": 1,
+    "timestamp": 1665442012947,
+    "id": 3
+  }
+]

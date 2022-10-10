@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 1665419551802,
+    "products": [
+      {
+        "name": "auto",
+        "description": "X112211",
+        "code": 1200000,
+        "price": "https://celulares.com/Samsung-s8.jpg",
+        "img": 1,
+        "timestamp": 1636915181599,
+        "id": 1
+      },
+      {
+        "name": "auto",
+        "description": "X112211",
+        "code": 1200000,
+        "price": "https://celulares.com/Samsung-s8.jpg",
+        "img": 1,
+        "timestamp": 1636915181599,
+        "id": 2
+      }
+    ],
+    "id": 1
+  }
+]
